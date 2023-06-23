@@ -1,0 +1,16 @@
+.container-head{
+    border-radius: 100%;
+    background-color: #ECBAC4;
+    height: 61px;
+    width: 61px;
+    position: absolute;
+    top: 65px;
+    left: 450px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.iconoCora{
+    color: #d98595;
+}

@@ -1,0 +1,13 @@
+.container-calificacion{
+    display: flex;
+    gap: 50px;
+}
+
+.revision{
+    color: #696969;
+    
+}
+
+.star{
+    color: yellow;
+}

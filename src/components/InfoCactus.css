@@ -1,0 +1,14 @@
+.container-info{
+}
+
+.info-cactus {
+    color: #111111;
+    font-size: 40px;
+    display: flex;
+    gap: 50px;
+}
+
+.descripcion{
+    color: #696969;
+    font-size: 30px;
+}

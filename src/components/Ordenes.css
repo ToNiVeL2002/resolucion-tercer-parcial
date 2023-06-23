@@ -1,0 +1,32 @@
+.ordenes{
+    display: flex;
+    width: 454px;
+    height: 62px;
+    background-color: #ECBAC4;
+    border-radius: 15px;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.menos{
+    height: 33px;
+    width: 33px;
+    border-radius: 100%;
+    background-color: #d98595;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.mas{
+    height: 33px;
+    width: 33px;
+    border-radius: 100%;
+    background-color: #d98595;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
